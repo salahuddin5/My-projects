@@ -2,13 +2,21 @@
 
 
 
-print("hello world")
-print(type(100))
-print(type("hello"))
-print(type({ "salah" : 1, "emad" : 2 }))
-print(type(191.23))
-print(type({ 1, 2, 3, 4, 6}))
-print(type(( 1, 2, 3, 4, 5 )))
-print(type([ 1, 2, 3, 4]))
-print(type(2 == 2))
+print("hello world") #print 
+
+print(type(100)) #int
+
+print(type("hello")) #str
+
+print(type({ "salah" : 1, "emad" : 2 })) #dict
+
+print(type(191.23)) #float
+
+print(type({ 1, 2, 3, 4, 6})) #set
+
+print(type(( 1, 2, 3, 4, 5 ))) #tuple
+
+print(type([ 1, 2, 3, 4])) #list
+
+print(type(2 == 2)) #bool
 
