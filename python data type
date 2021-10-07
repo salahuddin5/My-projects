@@ -1,0 +1,14 @@
+#بعض أنواع البيانات
+
+
+
+print("hello world")
+print(type(100))
+print(type("hello"))
+print(type({ "salah" : 1, "emad" : 2 }))
+print(type(191.23))
+print(type({ 1, 2, 3, 4, 6}))
+print(type(( 1, 2, 3, 4, 5 )))
+print(type([ 1, 2, 3, 4]))
+print(type(2 == 2))
+
